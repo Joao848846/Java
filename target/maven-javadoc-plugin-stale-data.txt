@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/mkom/work/Java/meuapp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/mkom/work/Java/meuapp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'meuapp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'meuapp 1.0-SNAPSHOT API'
+com.meuprojeto
+/home/mkom/work/Java/meuapp/src/main/java = 1724376778681
+/home/mkom/work/Java/meuapp/target/site/apidocs/help-doc.html = 1724377508584
+/home/mkom/work/Java/meuapp/target/site/apidocs/element-list = 1724377508532
+/home/mkom/work/Java/meuapp/target/site/apidocs/index.html = 1724377508579
+/home/mkom/work/Java/meuapp/target/site/apidocs/search.js = 1724377508588
+/home/mkom/work/Java/meuapp/target/site/apidocs/package-search-index.js = 1724377508570
+/home/mkom/work/Java/meuapp/target/site/apidocs/type-search-index.js = 1724377508570
+/home/mkom/work/Java/meuapp/target/site/apidocs/overview-tree.html = 1724377508558
+/home/mkom/work/Java/meuapp/target/site/apidocs/member-search-index.js = 1724377508570
+/home/mkom/work/Java/meuapp/target/site/apidocs/index-all.html = 1724377508578
+/home/mkom/work/Java/meuapp/target/site/apidocs/tag-search-index.js = 1724377508571
+/home/mkom/work/Java/meuapp/target/site/apidocs/jquery-ui.overrides.css = 1724377508595
+/home/mkom/work/Java/meuapp/target/site/apidocs/script.js = 1724377508586
+/home/mkom/work/Java/meuapp/target/site/apidocs/allpackages-index.html = 1724377508569
+/home/mkom/work/Java/meuapp/target/site/apidocs/stylesheet.css = 1724377508585
+/home/mkom/work/Java/meuapp/target/site/apidocs/allclasses-index.html = 1724377508567
+/home/mkom/work/Java/meuapp/target/site/apidocs/module-search-index.js = 1724377508570
